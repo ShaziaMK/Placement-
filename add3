@@ -1,0 +1,10 @@
+def add(a,b,c):
+    return a+b+c
+
+x= int(input("Enter a"))
+y= int(input("Enter b"))
+z= int(input("Enter c"))
+q= add(x,y,z)
+print("x+y+z=%d"%(q))
+
+
